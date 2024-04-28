@@ -39,3 +39,7 @@ Tomato is an online food delivery platform built using the MERN stack (MongoDB, 
 -   **MongoDB:** A flexible NoSQL database for efficient data storage.
 -   **Mongoose:** An elegant MongoDB object modeling tool providing schema-based solutions.
 -   **JSON Web Tokens (JWT):** Facilitating secure user authentication and authorization.
+-   
+## Contributing
+
+ Contributions of all kinds, including bug reports, feature requests, and pull requests, are highly appreciated and encouraged.
